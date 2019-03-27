@@ -35,7 +35,3 @@ chic.f <- filter(chicago, pm25tmean2 > 30)
 install.packages("data.table")
 install.packages("Kormaps")
 
-
-library(data.table)
-library(webshot)
-require(Kormaps)
